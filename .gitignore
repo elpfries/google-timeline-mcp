@@ -1,0 +1,10 @@
+node_modules/
+dist/
+data/
+*.local
+*.local.json
+.DS_Store
+.claude/
+
+# Local Google Timeline exports
+/Vos trajets.json
